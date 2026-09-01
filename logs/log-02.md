@@ -15,9 +15,10 @@
 ## 🎯 Module Overview & Technical Focus
 
 - **Syntax & Rule Sets:** Mastered strict execution rules, case sensitivity, and statement terminators.
-- **Variable Scope:** Implemented data containers utilizing `let` and `const` declarations.
+- **Variable Scope & State:** Implemented dynamic data containers using `let` and `const` to manage interactive numbers and strings.
 - **Diagnostics & I/O:** Utilized the developer console for real-time script output and debugging.
-- **DOM Integration:** Built a custom interactive interface merging semantic markup with dynamic behavior.
+- **DOM Integration & Element Targeting:** Programmatically targeted dynamic nodes using modern selectors (`document.getElementById`).
+- **Event-Driven State Management:** Built interactive components (like the Stock Manager) combining event listeners with real-time UI state modifications.
 
 ---
 
