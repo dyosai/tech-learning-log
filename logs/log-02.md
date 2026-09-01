@@ -31,6 +31,21 @@ console.log("Target Role:", targetRole);
 document.getElementById("role-val").textContent = targetRole;
 ```
 
+---
+
+## 📦 Stock Manager State Implementation
+
+```javascript
+// Exercise 6: Module 6 Event-Driven State Management & Dynamic Trigger
+const stockParagraph = document.getElementById("stockParagraph");
+const stockButton = document.getElementById("stockButton");
+let stockCount = 10;
+
+stockButton.addEventListener("click", () => {
+  stockCount--;
+  stockParagraph.textContent = `Stock: ${stockCount}`;
+});
+
 ## 🐞 Error Prevention & Bug Ledger
 
 | Bug / Error Encountered                      | Root Cause                                              | Permanent Solution                                          |
@@ -41,3 +56,4 @@ document.getElementById("role-val").textContent = targetRole;
 ## Engineering Takeaway:
 
 Successfully bridged static HTML structures with dynamic JavaScript event listeners, cementing foundational fluency in modern frontend workflows.
+```
