@@ -45,6 +45,7 @@ stockButton.addEventListener("click", () => {
   stockCount--;
   stockParagraph.textContent = `Stock: ${stockCount}`;
 });
+```
 
 ## 🐞 Error Prevention & Bug Ledger
 
@@ -56,4 +57,7 @@ stockButton.addEventListener("click", () => {
 ## Engineering Takeaway:
 
 Successfully bridged static HTML structures with dynamic JavaScript event listeners, cementing foundational fluency in modern frontend workflows.
+
+```
+
 ```
