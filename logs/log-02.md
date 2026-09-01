@@ -30,9 +30,12 @@ console.log("Target Role:", targetRole);
 document.getElementById("role-val").textContent = targetRole;
 ```
 
-## Bug / Error,Root Cause,Solution
+## 🐞 Error Prevention & Bug Ledger
 
-TypeError: Assignment to constant variable,Attempted reassignment of a const declaration,Swapped declaration keyword to let
+| Bug / Error Encountered                      | Root Cause                                              | Permanent Solution                                          |
+| :------------------------------------------- | :------------------------------------------------------ | :---------------------------------------------------------- |
+| `TypeError: Assignment to constant variable` | Attempted runtime reassignment of a `const` declaration | Swapped declaration keyword to `let`                        |
+| Unstyled Page / Blank Screen                 | Missing body structure or unlinked stylesheet path      | Restored base HTML elements and verified `<link>` reference |
 
 ## Engineering Takeaway:
 
