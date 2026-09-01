@@ -18,7 +18,7 @@ _Formal documentation of technical training credentials, verified program comple
 | :-------------------------------------------------- | :------------------- | :-------------------------------------------- | :--------------------------------------------------------------------------------------- |
 | **Code First Girls: Tech Taster (Intro to Coding)** | Code First Girls     | Completed / Waiting on Certificate (~3 Weeks) | Foundational programming concepts, syntax exploration, and technical pathway initiation. |
 
----
+| **Code First Girls: Javascript Coding Kickstarter** | Code First Girls | In Progress (Module 1 of 8 Completed) | Core JavaScript syntax, variables, DOM element targeting, event listeners, and interactive state management. |
 
 ## 🚀 Competency Framework
 
