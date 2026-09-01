@@ -28,10 +28,12 @@
 const targetRole = "Software Engineer";
 console.log("Target Role:", targetRole);
 document.getElementById("role-val").textContent = targetRole;
+```
 
 ## Bug / Error,Root Cause,Solution
 
 TypeError: Assignment to constant variable,Attempted reassignment of a const declaration,Swapped declaration keyword to let
 
-Engineering Takeaway: Successfully bridged static HTML structures with dynamic JavaScript event listeners, cementing foundational fluency in modern frontend workflows.
-```
+## Engineering Takeaway:
+
+Successfully bridged static HTML structures with dynamic JavaScript event listeners, cementing foundational fluency in modern frontend workflows.
