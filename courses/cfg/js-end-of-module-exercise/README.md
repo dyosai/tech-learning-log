@@ -33,3 +33,5 @@ stockButton.addEventListener("click", () => {
   stockParagraph.textContent = `Stock: ${stockCount}`;
 });
 ```
+
+> **Engineering Standard:** Built following strict front-end architectural principles to ensure clean separation of concerns and absolute predictability.
