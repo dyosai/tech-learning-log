@@ -24,16 +24,8 @@ _Core modules, hands-on technical exercises, and practical state-management impl
 ## 🚀 Core Curriculum Scope
 
 - **Module Foundations:** Strict syntax rules, case sensitivity, and runtime debugging protocols via the browser console.
-- **State Management:** Building interactive dynamic widgets (such as the Stock Manager state calculator) using event-driven triggers.
+- **Event-Driven State Management:** Built interactive components (like the Stock Manager widget) combining `document.getElementById`, `addEventListener`, and mutable state tracking (`let stockCount`) for real-time UI synchronization.
 - **DOM Interactivity:** Bridging static HTML structures with JavaScript event-handling layers for responsive user interfaces.
-
----
-
-## ⚡ Event-Driven State Management
-
-| Component / Exercise     | Technical Mechanics                                                                                                                          | Implementation Focus                                                                   |
-| :----------------------- | :------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- |
-| **Stock Manager Widget** | DOM element targeting (`document.getElementById`), runtime event binding (`addEventListener`), and mutable state tracking (`let stockCount`) | Real-time UI synchronization updating textual nodes dynamically upon user click events |
 
 ---
 
